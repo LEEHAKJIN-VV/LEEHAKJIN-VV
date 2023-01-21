@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=400&section=header&text=Hi%20I'm%20HakJin&fontSize=90)
+
 ### Hi there 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LEEHAKJIN-VV&show_icons=true&theme=radical)
