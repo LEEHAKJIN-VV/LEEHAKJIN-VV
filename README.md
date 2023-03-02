@@ -1,11 +1,9 @@
-<div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=400&section=header&text=Hi%20I'm%20HakJin&fontSize=90)
 
  
  ## Tech Stacks
  
- <img src="https://img.shields.io/badge/Swift-F05138?style=plastic&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/SwiftUI-blue?style=plastic&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/XCode-blue?style=plastic&logo=Xcode&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/Swift-F05138?style=plastic&logo=Swift&logoColor=white"/>  <img src="https://img.shields.io/badge/-UIKit-yellow?style=plastic&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/SwiftUI-blue?style=plastic&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/XCode-blue?style=plastic&logo=Xcode&logoColor=white"/> 
  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LEEHAKJIN-VV&show_icons=true&theme=radical)
